@@ -6,6 +6,8 @@ A Python-based implementation of a neural network developed from first principle
 **"Neural Networks from Scratch in Python"** by Harrison Kinsley and Daniel Kukieła. This project provides a transparent, educational exploration of neural network mechanics without relying on high-level deep learning frameworks such as TensorFlow or PyTorch.
 
 ---
+![1_2n62cyhUZNqYql_eBJIO5Q](https://github.com/user-attachments/assets/73fb4089-1909-4557-9aed-32d51d8c060d)
+
 
 ## Table of Contents
 1. [About the Project](#about-the-project)
